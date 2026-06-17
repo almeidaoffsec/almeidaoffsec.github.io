@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ferramentas — almeidaoffsec</title>
+  <meta name="description" content="Ferramentas de segurança ofensiva desenvolvidas por almeidaoffsec.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/css/base.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/css/components.css">
+</head>
+<body data-page="tools">
+
+  <div id="site-header"></div>
+
+  <section class="hero" style="padding-bottom: 2rem;">
+    <div class="container">
+      <span class="label">Projetos</span>
+      <h1>Ferramentas</h1>
+      <p>Tudo aqui nasceu de um problema real encontrado em lab, CTF ou engajamento — não são exercícios, são ferramentas em uso.</p>
+    </div>
+  </section>
+
+  <section style="padding-top: 0;">
+    <div class="container">
+      <!-- sem data-limit: mostra todas as ferramentas do tools.json -->
+      <div id="tools-grid" class="grid-3"></div>
+    </div>
+  </section>
+
+  <div id="site-footer"></div>
+
+  <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/site-chrome.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/tools-loader.js"></script>
+</body>
+</html>
