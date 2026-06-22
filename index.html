@@ -12,67 +12,61 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/css/base.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/css/components.css">
 </head>
-<body data-page="home">
+<body data-page="home" data-i18n-src="./i18n/">
 
   <div id="site-header"></div>
 
-  <!-- HERO
-       Texto abaixo é um rascunho alinhado ao posicionamento (infra + web pentest).
-       Troque pelo tagline/bio definitivos do seu manual de marca se forem diferentes. -->
   <section class="hero">
     <div class="container">
-      <span class="label">Offensive Security · Web</span>
-      <h1>Pentester web com raízes em infraestrutura.</h1>
-      <p>Enxergo a aplicação com os olhos de quem montou a rede por trás dela. Documento aqui o processo real de transição: labs, CTFs, ferramentas e os erros que ensinam mais do que os acertos.</p>
+      <span class="label" data-i18n="home.hero.eyebrow">Offensive Security · Web</span>
+      <h1 data-i18n="home.hero.title">Pentester web com raízes em infraestrutura.</h1>
+      <p data-i18n="home.hero.subtitle">Enxergo a aplicação com os olhos de quem montou a rede por trás dela. Documento aqui o processo real de transição: labs, CTFs, ferramentas e os erros que ensinam mais do que os acertos.</p>
       <div class="hero__actions">
-        <a class="btn-primary" href="/ferramentas/">Ver ferramentas</a>
-        <a class="btn-secondary" href="https://writeups.almeidaoffsec.com/">Ler writeups</a>
+        <a class="btn-primary" href="/ferramentas/" data-i18n="home.hero.cta.tools">Ver ferramentas</a>
+        <a class="btn-secondary" href="https://writeups.almeidaoffsec.com/" data-i18n="home.hero.cta.writeups">Ler writeups</a>
       </div>
     </div>
   </section>
 
-  <!-- FERRAMENTAS (dinâmico via tools.json) -->
   <section>
     <div class="container">
-      <span class="label">Projetos</span>
-      <h2>Últimas ferramentas</h2>
+      <span class="label" data-i18n="home.tools.label">Projetos</span>
+      <h2 data-i18n="home.tools.heading">Últimas ferramentas</h2>
       <div id="tools-grid" class="grid-3" data-limit="3"></div>
       <div style="margin-top: 2rem;">
-        <a class="btn-secondary" href="/ferramentas/">Ver todas as ferramentas →</a>
+        <a class="btn-secondary" href="/ferramentas/" data-i18n="home.tools.cta">Ver todas as ferramentas →</a>
       </div>
     </div>
   </section>
 
-  <!-- WRITEUPS (preview estático — lista real fica no repo writeups via Jekyll) -->
   <section>
     <div class="container">
-      <span class="label">Aprendizado em público</span>
-      <h2>Últimos writeups</h2>
+      <span class="label" data-i18n="home.writeups.label">Aprendizado em público</span>
+      <h2 data-i18n="home.writeups.heading">Últimos writeups</h2>
       <div class="grid-2">
         <div class="card">
           <span class="badge badge--info">CTF</span>
-          <h3>Primeiro writeup em breve</h3>
-          <p>Assim que o primeiro CTF for documentado, ele aparece aqui automaticamente.</p>
+          <h3 data-i18n="home.writeups.card1.title">Primeiro writeup em breve</h3>
+          <p data-i18n="home.writeups.card1.body">Assim que o primeiro CTF for documentado, ele aparece aqui automaticamente.</p>
         </div>
         <div class="card">
           <span class="badge badge--medium">Web</span>
-          <h3>Jornada de aprendizado</h3>
-          <p>Cada lab resolvido, cada erro corrigido — documentado em tempo real.</p>
+          <h3 data-i18n="home.writeups.card2.title">Jornada de aprendizado</h3>
+          <p data-i18n="home.writeups.card2.body">Cada lab resolvido, cada erro corrigido — documentado em tempo real.</p>
         </div>
       </div>
       <div style="margin-top: 2rem;">
-        <a class="btn-secondary" href="https://writeups.almeidaoffsec.com/">Ver todos os writeups →</a>
+        <a class="btn-secondary" href="https://writeups.almeidaoffsec.com/" data-i18n="home.writeups.cta">Ver todos os writeups →</a>
       </div>
     </div>
   </section>
 
-  <!-- SOBRE (resumo) -->
   <section>
     <div class="container">
-      <span class="label">Quem está construindo isso</span>
-      <h2>De infra para segurança ofensiva</h2>
-      <p style="max-width: 640px;">Background sólido em infraestrutura e redes — hoje aplicado à descoberta de vulnerabilidades web. Conhecer como uma rede é montada muda a forma de atacar uma aplicação que vive nela.</p>
-      <a class="btn-secondary" href="/sobre.html">Conhecer a trajetória completa →</a>
+      <span class="label" data-i18n="home.about.label">Quem está construindo isso</span>
+      <h2 data-i18n="home.about.heading">De infra para segurança ofensiva</h2>
+      <p style="max-width: 640px;" data-i18n="home.about.body">Background sólido em infraestrutura e redes — hoje aplicado à descoberta de vulnerabilidades web. Conhecer como uma rede é montada muda a forma de atacar uma aplicação que vive nela.</p>
+      <a class="btn-secondary" href="/sobre.html" data-i18n="home.about.cta">Conhecer a trajetória completa →</a>
     </div>
   </section>
 
@@ -80,5 +74,6 @@
 
   <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/site-chrome.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/tools-loader.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/i18n.js"></script>
 </body>
 </html>

@@ -1,0 +1,28 @@
+{
+  "home.hero.eyebrow":       "Offensive Security · Web",
+  "home.hero.title":         "Pentester web com raízes em infraestrutura.",
+  "home.hero.subtitle":      "Enxergo a aplicação com os olhos de quem montou a rede por trás dela. Documento aqui o processo real de transição: labs, CTFs, ferramentas e os erros que ensinam mais do que os acertos.",
+  "home.hero.cta.tools":     "Ver ferramentas",
+  "home.hero.cta.writeups":  "Ler writeups",
+
+  "home.tools.label":   "Projetos",
+  "home.tools.heading": "Últimas ferramentas",
+  "home.tools.cta":     "Ver todas as ferramentas →",
+
+  "home.writeups.label":        "Aprendizado em público",
+  "home.writeups.heading":      "Últimos writeups",
+  "home.writeups.card1.title":  "Primeiro writeup em breve",
+  "home.writeups.card1.body":   "Assim que o primeiro CTF for documentado, ele aparece aqui automaticamente.",
+  "home.writeups.card2.title":  "Jornada de aprendizado",
+  "home.writeups.card2.body":   "Cada lab resolvido, cada erro corrigido — documentado em tempo real.",
+  "home.writeups.cta":          "Ver todos os writeups →",
+
+  "home.about.label":   "Quem está construindo isso",
+  "home.about.heading": "De infra para segurança ofensiva",
+  "home.about.body":    "Background sólido em infraestrutura e redes — hoje aplicado à descoberta de vulnerabilidades web. Conhecer como uma rede é montada muda a forma de atacar uma aplicação que vive nela.",
+  "home.about.cta":     "Conhecer a trajetória completa →",
+
+  "tools.label":    "Projetos",
+  "tools.heading":  "Ferramentas",
+  "tools.subtitle": "Tudo aqui nasceu de um problema real encontrado em lab, CTF ou engajamento — não são exercícios, são ferramentas em uso."
+}
