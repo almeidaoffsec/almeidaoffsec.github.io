@@ -9,13 +9,9 @@
   "home.tools.heading": "Latest tools",
   "home.tools.cta":     "View all tools →",
 
-  "home.writeups.label":        "Learning in public",
-  "home.writeups.heading":      "Latest writeups",
-  "home.writeups.card1.title":  "First writeup coming soon",
-  "home.writeups.card1.body":   "As soon as the first CTF is documented, it will appear here automatically.",
-  "home.writeups.card2.title":  "Learning journey",
-  "home.writeups.card2.body":   "Every lab solved, every mistake fixed — documented in real time.",
-  "home.writeups.cta":          "View all writeups →",
+  "home.writeups.label":   "Learning in public",
+  "home.writeups.heading": "Latest writeups",
+  "home.writeups.cta":     "View all writeups →",
 
   "home.about.label":   "Who is building this",
   "home.about.heading": "From infrastructure to offensive security",

@@ -9,13 +9,9 @@
   "home.tools.heading": "Últimas ferramentas",
   "home.tools.cta":     "Ver todas as ferramentas →",
 
-  "home.writeups.label":        "Aprendizado em público",
-  "home.writeups.heading":      "Últimos writeups",
-  "home.writeups.card1.title":  "Primeiro writeup em breve",
-  "home.writeups.card1.body":   "Assim que o primeiro CTF for documentado, ele aparece aqui automaticamente.",
-  "home.writeups.card2.title":  "Jornada de aprendizado",
-  "home.writeups.card2.body":   "Cada lab resolvido, cada erro corrigido — documentado em tempo real.",
-  "home.writeups.cta":          "Ver todos os writeups →",
+  "home.writeups.label":   "Aprendizado em público",
+  "home.writeups.heading": "Últimos writeups",
+  "home.writeups.cta":     "Ver todos os writeups →",
 
   "home.about.label":   "Quem está construindo isso",
   "home.about.heading": "De infra para segurança ofensiva",
