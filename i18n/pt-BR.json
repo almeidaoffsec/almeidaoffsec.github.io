@@ -2,12 +2,12 @@
   "home.hero.eyebrow":       "Offensive Security · Web & InfraNetwork",
   "home.hero.title":         "Pentester WEB - Infraestrutura e redes no DNA",
   "home.hero.subtitle":      "Enxergo a aplicação com os olhos de quem já montou e gerenciou a rede por trás dela. Aqui estão meus writeups, posts e projetos.",
-  "home.hero.cta.tools":     "Ver ferramentas",
+  "home.hero.cta.tools":     "Ver projetos",
   "home.hero.cta.writeups":  "Ler writeups",
 
   "home.tools.label":   "Projetos",
-  "home.tools.heading": "Últimas ferramentas",
-  "home.tools.cta":     "Ver todas as ferramentas →",
+  "home.tools.heading": "Últimos projetos",
+  "home.tools.cta":     "Ver todos os projetos →",
 
   "home.writeups.label":   "Hack The World",
   "home.writeups.heading": "Últimos writeups",
@@ -23,6 +23,6 @@
   "home.blog.cta":     "Ver todos os posts →",
 
   "tools.label":    "Projetos",
-  "tools.heading":  "Ferramentas",
-  "tools.subtitle": "Tudo aqui nasceu de um problema real encontrado em lab, CTF ou engajamento — não são exercícios, são ferramentas em uso."
+  "tools.heading":  "Projetos",
+  "tools.subtitle": "Tudo aqui nasceu de um problema real encontrado em lab, CTF ou engajamento — não são exercícios, são projetos em uso."
 }
