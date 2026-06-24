@@ -1,7 +1,7 @@
 {
-  "home.hero.eyebrow":       "Offensive Security · Web",
-  "home.hero.title":         "Web pentester with roots in infrastructure.",
-  "home.hero.subtitle":      "I see the application through the eyes of someone who built the network behind it. I document the real transition process here: labs, CTFs, tools, and the mistakes that teach more than the wins.",
+  "home.hero.eyebrow":       "Offensive Security · Web & InfraNetwork",
+  "home.hero.title":         "WEB Pentester — Infrastructure and networks in the DNA",
+  "home.hero.subtitle":      "I see the application through the eyes of someone who has built and managed the network behind it. Here are my writeups, posts and projects.",
   "home.hero.cta.tools":     "View tools",
   "home.hero.cta.writeups":  "Read writeups",
 
