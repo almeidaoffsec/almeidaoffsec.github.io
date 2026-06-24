@@ -18,6 +18,10 @@
   "home.about.body":    "Background sólido em infraestrutura e redes — hoje aplicado à descoberta de vulnerabilidades web. Conhecer como uma rede é montada muda a forma de atacar uma aplicação que vive nela.",
   "home.about.cta":     "Conhecer a trajetória completa →",
 
+  "home.blog.label":   "Jornada em público",
+  "home.blog.heading": "Últimos posts",
+  "home.blog.cta":     "Ver todos os posts →",
+
   "tools.label":    "Projetos",
   "tools.heading":  "Ferramentas",
   "tools.subtitle": "Tudo aqui nasceu de um problema real encontrado em lab, CTF ou engajamento — não são exercícios, são ferramentas em uso."

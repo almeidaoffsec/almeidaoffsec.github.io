@@ -18,6 +18,10 @@
   "home.about.body":    "Solid background in infrastructure and networks — now applied to discovering web vulnerabilities. Knowing how a network is built changes the way you attack an application that lives on it.",
   "home.about.cta":     "See the full journey →",
 
+  "home.blog.label":   "Learning in public",
+  "home.blog.heading": "Latest posts",
+  "home.blog.cta":     "View all posts →",
+
   "tools.label":    "Projects",
   "tools.heading":  "Tools",
   "tools.subtitle": "Everything here was born from a real problem found in a lab, CTF, or engagement — these are not exercises, they are tools in active use."
