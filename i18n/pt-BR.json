@@ -25,5 +25,9 @@
 
   "tools.label":    "Projetos",
   "tools.heading":  "Projetos",
-  "tools.subtitle": "Tudo aqui nasceu de um problema real encontrado em lab, CTF ou engajamento — não são exercícios, são projetos em uso."
+  "tools.subtitle": "Tudo aqui nasceu de um problema ou necessidade real encontrado em lab, CTF ou durante minha jornada.",
+
+  "about.hero.eyebrow": "Sobre",
+  "about.hero.title":   "Brandon Almeida",
+  "about.hero.subtitle": "Pentester web com background em infraestrutura e redes."
 }

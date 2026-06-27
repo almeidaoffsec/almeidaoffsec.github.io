@@ -25,5 +25,9 @@
 
   "tools.label":    "Projects",
   "tools.heading":  "Projects",
-  "tools.subtitle": "Everything here was born from a real problem found in a lab, CTF, or engagement — these are not exercises, they are projects in active use."
+  "tools.subtitle": "Everything here was born from a real problem or need found in a lab, CTF, or along my journey.",
+
+  "about.hero.eyebrow": "About",
+  "about.hero.title":   "Brandon Almeida",
+  "about.hero.subtitle": "Web pentester with a background in infrastructure and networks."
 }
