@@ -16,7 +16,7 @@
 
   "home.about.label":   "Quem está construindo isso",
   "home.about.heading": "De infra para segurança ofensiva",
-  "home.about.body":    "Background sólido em infraestrutura e redes — hoje aplicado à descoberta de vulnerabilidades web. Conhecer como uma rede é montada muda a forma de atacar uma aplicação que vive nela.",
+  "home.about.body":    "Background sólido em infraestrutura e redes, hoje aplicado à descoberta de vulnerabilidades web. Conhecer como uma rede é montada muda a forma de atacar uma aplicação que vive nela.",
   "home.about.cta":     "Conhecer a trajetória completa →",
 
   "home.blog.label":   "Blog",
@@ -29,9 +29,10 @@
 
   "about.hero.eyebrow": "Sobre",
   "about.hero.title":   "Brandon Almeida",
-  "about.hero.subtitle": "Comecei como Jovem Aprendiz no SENAI — reparando computadores, cabeando redes e instalando infraestrutura do zero. Passei pelo desenvolvimento, mas foi no hacking que realmente me encontrei. Anos em ambientes industriais de alta pressão consolidaram meu conhecimento técnico em redes e sistemas. Hoje, essa combinação me permite ajudar pessoas e organizações a identificar as vulnerabilidades que costumam passar despercebidas — ou são ignoradas por falta de quem saiba onde olhar.",
+  "about.hero.subtitle": "Profissional de cibersegurança com foco em pentest de aplicações web e ambientes internos. Também acumulo {years} anos de experiência em Infraestrutura e Redes, tanto locais quanto em nuvem. Abaixo você pode conferir as demais experiências que obtive ao longo da minha jornada.",
 
   "contact.hero.eyebrow":  "Contato",
   "contact.hero.title":    "Onde me encontrar",
-  "contact.hero.subtitle": "Escolha a plataforma que preferir — seja para acompanhar o conteúdo, trocar uma ideia sobre segurança ou discutir uma parceria."
+  "contact.hero.subtitle": "Oi, prazer em ter você por aqui. Abaixo você vai encontrar minhas redes sociais. Sinta-se a vontade em me seguir ou entrar em contato. Caso quiser dar uma olhada no meu conteúdo por aqui, clique no botão \"Home\" abaixo para ir para a pagina principal do site.",
+  "contact.hero.cta.home": "Home"
 }

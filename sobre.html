@@ -20,7 +20,7 @@
     <div class="container">
       <span class="label" data-i18n="about.hero.eyebrow">Sobre</span>
       <h1 data-i18n="about.hero.title">Brandon Almeida</h1>
-      <p data-i18n="about.hero.subtitle">Comecei como Jovem Aprendiz no SENAI — reparando computadores, cabeando redes e instalando infraestrutura do zero. Passei pelo desenvolvimento, mas foi no hacking que realmente me encontrei. Anos em ambientes industriais de alta pressão consolidaram meu conhecimento técnico em redes e sistemas. Hoje, essa combinação me permite ajudar pessoas e organizações a identificar as vulnerabilidades que costumam passar despercebidas — ou são ignoradas por falta de quem saiba onde olhar.</p>
+      <p data-i18n="about.hero.subtitle">Profissional de cibersegurança com foco em pentest de aplicações web e ambientes internos. Também acumulo {years} anos de experiência em Infraestrutura e Redes, tanto locais quanto em nuvem. Abaixo você pode conferir as demais experiências que obtive ao longo da minha jornada.</p>
       <div class="hero__actions">
         <a class="btn-secondary" href="#experience">Experiência</a>
         <a class="btn-secondary" href="#education">Formação</a>
@@ -50,5 +50,16 @@
   <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/experience-loader.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/education-loader.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/almeidaoffsec/design-system@main/js/i18n.js"></script>
+  <script>
+    (function () {
+      var CAREER_START_YEAR = 2022;
+      document.addEventListener("i18n:ready", function () {
+        var el = document.querySelector('[data-i18n="about.hero.subtitle"]');
+        if (!el) return;
+        var years = new Date().getFullYear() - CAREER_START_YEAR;
+        el.textContent = el.textContent.replace("{years}", years);
+      });
+    })();
+  </script>
 </body>
 </html>

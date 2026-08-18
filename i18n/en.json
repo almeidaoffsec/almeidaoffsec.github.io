@@ -16,7 +16,7 @@
 
   "home.about.label":   "Who is building this",
   "home.about.heading": "From infrastructure to offensive security",
-  "home.about.body":    "Solid background in infrastructure and networks — now applied to discovering web vulnerabilities. Knowing how a network is built changes the way you attack an application that lives on it.",
+  "home.about.body":    "Solid background in infrastructure and networks, now applied to discovering web vulnerabilities. Knowing how a network is built changes the way you attack an application that lives on it.",
   "home.about.cta":     "See the full journey →",
 
   "home.blog.label":   "Blog",
@@ -29,9 +29,10 @@
 
   "about.hero.eyebrow": "About",
   "about.hero.title":   "Brandon Almeida",
-  "about.hero.subtitle": "I started as an apprentice at SENAI — repairing computers, running cables, and setting up network infrastructure from scratch. I explored software development along the way, but hacking is where I truly found my calling. Years in high-pressure industrial environments solidified my technical foundation in networks and systems. Today, that combination lets me help people and organizations uncover the vulnerabilities that often go unnoticed — or are overlooked simply because no one knew where to look.",
+  "about.hero.subtitle": "Cybersecurity professional focused on penetration testing for web applications and internal environments. I also have {years} years of experience in local and cloud Infrastructure and Networking. Below you can check out the other experience I've gained throughout my journey.",
 
   "contact.hero.eyebrow":  "Contact",
   "contact.hero.title":    "Where to find me",
-  "contact.hero.subtitle": "Pick whichever platform suits you best — whether to follow the content, discuss security, or talk about a partnership."
+  "contact.hero.subtitle": "Hi, glad to have you here. Below you'll find my social networks. Feel free to follow me or get in touch. If you'd like to check out my content, click the \"Home\" button below to go to the site's main page.",
+  "contact.hero.cta.home": "Home"
 }
