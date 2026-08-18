@@ -33,6 +33,7 @@
 
   "contact.hero.eyebrow":  "Contact",
   "contact.hero.title":    "Where to find me",
-  "contact.hero.subtitle": "Hi, glad to have you here. Below you'll find my social networks. Feel free to follow me or get in touch. If you'd like to check out my content, click the \"Home\" button below to go to the site's main page.",
-  "contact.hero.cta.home": "Home"
+  "contact.hero.subtitle": "Hi, glad to have you here. Below you'll find my social networks. Feel free to follow me or get in touch. If you'd like to check out my content, click the \"Home\" button below to go to the site's main page. If you'd like to check out my experience/skills, click the \"About\" button right below.",
+  "contact.hero.cta.home":  "Home",
+  "contact.hero.cta.about": "About"
 }

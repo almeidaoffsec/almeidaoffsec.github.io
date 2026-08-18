@@ -33,6 +33,7 @@
 
   "contact.hero.eyebrow":  "Contato",
   "contact.hero.title":    "Onde me encontrar",
-  "contact.hero.subtitle": "Oi, prazer em ter você por aqui. Abaixo você vai encontrar minhas redes sociais. Sinta-se a vontade em me seguir ou entrar em contato. Caso quiser dar uma olhada no meu conteúdo por aqui, clique no botão \"Home\" abaixo para ir para a pagina principal do site.",
-  "contact.hero.cta.home": "Home"
+  "contact.hero.subtitle": "Oi, prazer em ter você por aqui. Abaixo você vai encontrar minhas redes sociais. Sinta-se a vontade em me seguir ou entrar em contato. Caso quiser dar uma olhada no meu conteúdo por aqui, clique no botão \"Home\" abaixo para ir para a pagina principal do site. Caso quiser conferir minha experiência/skills clique no botão \"Sobre\" logo abaixo.",
+  "contact.hero.cta.home":  "Home",
+  "contact.hero.cta.about": "Sobre"
 }
